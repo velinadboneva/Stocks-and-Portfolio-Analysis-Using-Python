@@ -5,7 +5,7 @@ This repository contains practical financial analysis projects implemented in Py
 ---
 
 ## 1. Rheinmetall (RHM) Return Analysis
-**Notebook:** [Analysis.ipynb](./Analysis.ipynb)
+**Notebook:** [Stocks and Portfolio Analysis.ipynb](./Stocks and Portfolio Analysis.ipynb)
 
 **Key components demonstrated in this notebook:**
 
